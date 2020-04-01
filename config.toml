@@ -1,0 +1,13 @@
+baseURL = "https://lokal.ninja"
+languageCode = "de-DE"
+title = "Lokal Ninja"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML"]
+
+[params]
+  org = "lokal-ninja"
+  region = "deiner Stadt"

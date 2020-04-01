@@ -1,0 +1,13 @@
+[build]
+  publish = "public"
+  command = "hugo"
+
+[context.production.environment]
+  HUGO_VERSION = "0.67.1"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "/bayern/*"
+  to = "https://ln-bayern.netlify.com/:splat"
+  status = 200
