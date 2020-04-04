@@ -11,4 +11,3 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [params]
   site = "Lokal Ninja"
   org = "lokal-ninja"
-  repo = "start"
