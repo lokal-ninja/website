@@ -1,6 +1,6 @@
-baseURL = "https://lokal.ninja"
-languageCode = "de-DE"
-title = "deiner Stadt"
+baseURL = "https://de.shoogle.net"
+languageCode = "de"
+title = "Deutschland"
 theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -9,5 +9,5 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   home = ["HTML"]
 
 [params]
-  site = "Lokal Ninja"
+  site = "Shoogle"
   org = "lokal-ninja"

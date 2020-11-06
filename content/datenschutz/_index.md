@@ -16,7 +16,7 @@ Deutschland
 
 E-Mailadresse: {{< email >}}
 
-Link zum Impressum: https://lokal.ninja/impressum/
+Link zum Impressum: https://de.shoogle.net/impressum/
 
 ## Arten der verarbeiteten Daten:
 
