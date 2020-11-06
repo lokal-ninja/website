@@ -2,6 +2,7 @@
 title: Shoogle
 ---
 
-Shoogle ist ein Gemeinschaftsprojekt, um aktuelle Informationen zu den Einkaufsmöglichkeiten in Deutschland allen zur Verfügung zu stellen.
+Shoogle is a community project to provide up-to-date information on shopping opportunities in every region of the United States.
 
-Helft mit und verbessert die Datengrundlage indem ihr fehlende Orte in die [OpenStreetMap](https://www.openstreetmap.org/) eintragt.
+Help and improve the data basis by adding missing places to the [OpenStreetMap](https://www.openstreetmap.org/).
+

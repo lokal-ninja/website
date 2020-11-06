@@ -1,5 +1,5 @@
 ---
-title: Impressum
+title: Legal
 ---
 
 ## Angaben gemäß § 5 TMG:

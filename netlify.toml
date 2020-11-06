@@ -8,76 +8,260 @@
   HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "/baden-wuerttemberg/*"
-  to = "https://ln-baden-wuerttemberg.netlify.com/:splat"
+  from = "/alabama/*"
+  to = "https://ln-alabama.netlify.com/:splat"
   status = 200
 
 [[redirects]]
-  from = "/bayern/*"
-  to = "https://ln-bayern.netlify.com/:splat"
+  from = "/alaska/*"
+  to = "https://ln-alaska.netlify.com/:splat"
   status = 200
 
 [[redirects]]
-  from = "/brandenburg/*"
-  to = "https://ln-brandenburg.netlify.com/:splat"
+  from = "/arizona/*"
+  to = "https://ln-arizona.netlify.com/:splat"
   status = 200
 
 [[redirects]]
-  from = "/bremen/*"
-  to = "https://ln-bremen.netlify.com/:splat"
+  from = "/arkansas/*"
+  to = "https://ln-arkansas.netlify.com/:splat"
   status = 200
 
 [[redirects]]
-  from = "/hamburg/*"
-  to = "https://ln-hamburg.netlify.com/:splat"
+  from = "/california/*"
+  to = "https://ln-california.netlify.com/:splat"
   status = 200
 
 [[redirects]]
-  from = "/hessen/*"
-  to = "https://ln-hessen.netlify.com/:splat"
+  from = "/colorado/*"
+  to = "https://ln-colorado.netlify.com/:splat"
   status = 200
 
 [[redirects]]
-  from = "/mecklenburg-vorpommern/*"
-  to = "https://ln-mecklenburg-vorpommern.netlify.com/:splat"
+  from = "/connecticut/*"
+  to = "https://ln-connecticut.netlify.com/:splat"
   status = 200
 
 [[redirects]]
-  from = "/niedersachsen/*"
-  to = "https://ln-niedersachsen.netlify.com/:splat"
+  from = "/delaware/*"
+  to = "https://ln-delaware.netlify.com/:splat"
   status = 200
 
 [[redirects]]
-  from = "/nordrhein-westfalen/*"
-  to = "https://ln-nordrhein-westfalen.netlify.com/:splat"
+  from = "/district-of-columbia/*"
+  to = "https://ln-district-of-columbia.netlify.com/:splat"
   status = 200
 
 [[redirects]]
-  from = "/rheinland-pfalz/*"
-  to = "https://ln-rheinland-pfalz.netlify.com/:splat"
+  from = "/florida/*"
+  to = "https://ln-florida.netlify.com/:splat"
   status = 200
 
 [[redirects]]
-  from = "/saarland/*"
-  to = "https://ln-saarland.netlify.com/:splat"
+  from = "/georgia/*"
+  to = "https://ln-georgia.netlify.com/:splat"
   status = 200
 
 [[redirects]]
-  from = "/sachsen/*"
-  to = "https://ln-sachsen.netlify.com/:splat"
+  from = "/hawaii/*"
+  to = "https://ln-hawaii.netlify.com/:splat"
   status = 200
 
 [[redirects]]
-  from = "/sachsen-anhalt/*"
-  to = "https://ln-sachsen-anhalt.netlify.com/:splat"
+  from = "/idaho/*"
+  to = "https://ln-idaho.netlify.com/:splat"
   status = 200
 
 [[redirects]]
-  from = "/schleswig-holstein/*"
-  to = "https://ln-schleswig-holstein.netlify.com/:splat"
+  from = "/illinois/*"
+  to = "https://ln-illinois.netlify.com/:splat"
   status = 200
 
 [[redirects]]
-  from = "/thueringen/*"
-  to = "https://ln-thueringen.netlify.com/:splat"
+  from = "/indiana/*"
+  to = "https://ln-indiana.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/iowa/*"
+  to = "https://ln-iowa.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/kansas/*"
+  to = "https://ln-kansas.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/kentucky/*"
+  to = "https://ln-kentucky.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/louisiana/*"
+  to = "https://ln-louisiana.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/maine/*"
+  to = "https://ln-maine.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/maryland/*"
+  to = "https://ln-maryland.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/massachusetts/*"
+  to = "https://ln-massachusetts.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/michigan/*"
+  to = "https://ln-michigan.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/minnesota/*"
+  to = "https://ln-minnesota.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/mississippi/*"
+  to = "https://ln-mississippi.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/missouri/*"
+  to = "https://ln-missouri.netlify.com/:splat"
+  status = 200
+[[redirects]]
+  from = "/montana/*"
+  to = "https://ln-montana.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/nebraska/*"
+  to = "https://ln-nebraska.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/nevada/*"
+  to = "https://ln-nevada.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/new-hampshire/*"
+  to = "https://ln-new-hampshire.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/new-jersey/*"
+  to = "https://ln-new-jersey.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/new-mexico/*"
+  to = "https://ln-new-mexico.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/new-york/*"
+  to = "https://ln-new-york.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/north-carolina/*"
+  to = "https://ln-north-carolina.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/north-dakota/*"
+  to = "https://ln-north-dakota.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/ohio/*"
+  to = "https://ln-ohio.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/oklahoma/*"
+  to = "https://ln-oklahoma.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/oregon/*"
+  to = "https://ln-oregon.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/pennsylvania/*"
+  to = "https://ln-pennsylvania.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/puerto-rico/*"
+  to = "https://ln-puerto-rico.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/rhode-island/*"
+  to = "https://ln-rhode-island.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/south-carolina/*"
+  to = "https://ln-south-carolina.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/south-dakota/*"
+  to = "https://ln-south-dakota.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/tennessee/*"
+  to = "https://ln-tennessee.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/texas/*"
+  to = "https://ln-texas.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/utah/*"
+  to = "https://ln-utah.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/vermont/*"
+  to = "https://ln-vermont.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/virginia/*"
+  to = "https://ln-virginia.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/washington/*"
+  to = "https://ln-washington.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/west-virginia/*"
+  to = "https://ln-west-virginia.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/wisconsin/*"
+  to = "https://ln-wisconsin.netlify.com/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/wyoming/*"
+  to = "https://ln-wyoming.netlify.com/:splat"
   status = 200
