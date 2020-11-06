@@ -81,13 +81,3 @@
   from = "/thueringen/*"
   to = "https://ln-thueringen.netlify.com/:splat"
   status = 200
-
-[[redirects]]
-  from = "/oesterreich/*"
-  to = "https://ln-oesterreich.netlify.com/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/schweiz/*"
-  to = "https://ln-schweiz.netlify.com/:splat"
-  status = 200
