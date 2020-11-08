@@ -8,66 +8,6 @@
   HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "/alberta/*"
-  to = "https://ln-alberta.netlify.app/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/british-columbia/*"
-  to = "https://ln-british-columbia.netlify.app/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/manitoba/*"
-  to = "https://ln-manitoba.netlify.app/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/new-brunswick/*"
-  to = "https://ln-new-brunswick.netlify.app/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/newfoundland-and-labrador/*"
-  to = "https://ln-newfoundland-and-labrador.netlify.app/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/northwest-territories/*"
-  to = "https://ln-northwest-territories.netlify.app/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/nova-scotia/*"
-  to = "https://ln-nova-scotia.netlify.app/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/nunavut/*"
-  to = "https://ln-nunavut.netlify.app/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/ontario/*"
-  to = "https://ln-ontario.netlify.app/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/prince-edward-island/*"
-  to = "https://ln-prince-edward-island.netlify.app/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/quebec/*"
-  to = "https://ln-quebec.netlify.app/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/saskatchewan/*"
-  to = "https://ln-saskatchewan.netlify.app/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/yukon/*"
-  to = "https://ln-yukon.netlify.app/:splat"
+  from = "/new-zealand/*"
+  to = "https://ln-new-zealand.netlify.app/:splat"
   status = 200
