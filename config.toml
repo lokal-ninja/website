@@ -1,6 +1,6 @@
-baseURL = "https://ca.shoogle.net"
+baseURL = "https://au.shoogle.net"
 languageCode = "en"
-title = "Canada"
+title = "Australia"
 theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
