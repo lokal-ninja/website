@@ -1,6 +1,6 @@
-baseURL = "https://us.shoogle.net"
+baseURL = "https://gb.shoogle.net"
 languageCode = "en"
-title = "United States of America"
+title = "Great Britain"
 theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
