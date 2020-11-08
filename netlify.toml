@@ -9,75 +9,75 @@
 
 [[redirects]]
   from = "/baden-wuerttemberg/*"
-  to = "https://ln-baden-wuerttemberg.netlify.com/:splat"
+  to = "https://ln-baden-wuerttemberg.netlify.app/:splat"
   status = 200
 
 [[redirects]]
   from = "/bayern/*"
-  to = "https://ln-bayern.netlify.com/:splat"
+  to = "https://ln-bayern.netlify.app/:splat"
   status = 200
 
 [[redirects]]
   from = "/brandenburg/*"
-  to = "https://ln-brandenburg.netlify.com/:splat"
+  to = "https://ln-brandenburg.netlify.app/:splat"
   status = 200
 
 [[redirects]]
   from = "/bremen/*"
-  to = "https://ln-bremen.netlify.com/:splat"
+  to = "https://ln-bremen.netlify.app/:splat"
   status = 200
 
 [[redirects]]
   from = "/hamburg/*"
-  to = "https://ln-hamburg.netlify.com/:splat"
+  to = "https://ln-hamburg.netlify.app/:splat"
   status = 200
 
 [[redirects]]
   from = "/hessen/*"
-  to = "https://ln-hessen.netlify.com/:splat"
+  to = "https://ln-hessen.netlify.app/:splat"
   status = 200
 
 [[redirects]]
   from = "/mecklenburg-vorpommern/*"
-  to = "https://ln-mecklenburg-vorpommern.netlify.com/:splat"
+  to = "https://ln-mecklenburg-vorpommern.netlify.app/:splat"
   status = 200
 
 [[redirects]]
   from = "/niedersachsen/*"
-  to = "https://ln-niedersachsen.netlify.com/:splat"
+  to = "https://ln-niedersachsen.netlify.app/:splat"
   status = 200
 
 [[redirects]]
   from = "/nordrhein-westfalen/*"
-  to = "https://ln-nordrhein-westfalen.netlify.com/:splat"
+  to = "https://ln-nordrhein-westfalen.netlify.app/:splat"
   status = 200
 
 [[redirects]]
   from = "/rheinland-pfalz/*"
-  to = "https://ln-rheinland-pfalz.netlify.com/:splat"
+  to = "https://ln-rheinland-pfalz.netlify.app/:splat"
   status = 200
 
 [[redirects]]
   from = "/saarland/*"
-  to = "https://ln-saarland.netlify.com/:splat"
+  to = "https://ln-saarland.netlify.app/:splat"
   status = 200
 
 [[redirects]]
   from = "/sachsen/*"
-  to = "https://ln-sachsen.netlify.com/:splat"
+  to = "https://ln-sachsen.netlify.app/:splat"
   status = 200
 
 [[redirects]]
   from = "/sachsen-anhalt/*"
-  to = "https://ln-sachsen-anhalt.netlify.com/:splat"
+  to = "https://ln-sachsen-anhalt.netlify.app/:splat"
   status = 200
 
 [[redirects]]
   from = "/schleswig-holstein/*"
-  to = "https://ln-schleswig-holstein.netlify.com/:splat"
+  to = "https://ln-schleswig-holstein.netlify.app/:splat"
   status = 200
 
 [[redirects]]
   from = "/thueringen/*"
-  to = "https://ln-thueringen.netlify.com/:splat"
+  to = "https://ln-thueringen.netlify.app/:splat"
   status = 200
