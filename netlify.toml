@@ -9,5 +9,5 @@
 
 [[redirects]]
   from = "/austria/*"
-  to = "https://ln-austria.netlify.com/:splat"
+  to = "https://ln-austria.netlify.app/:splat"
   status = 200
