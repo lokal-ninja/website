@@ -1,6 +1,6 @@
-baseURL = "https://us.shoogle.net"
+baseURL = "https://ie.shoogle.net"
 languageCode = "en"
-title = "United States of America"
+title = "Ireland and Northern Ireland"
 theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
