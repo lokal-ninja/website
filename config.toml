@@ -1,6 +1,6 @@
-baseURL = "https://us.shoogle.net"
+baseURL = "https://sl.shoogle.net"
 languageCode = "en"
-title = "United States of America"
+title = "Sierra Leone"
 theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
