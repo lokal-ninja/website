@@ -1,6 +1,6 @@
-baseURL = "https://us.shoogle.net"
+baseURL = "https://lr.shoogle.net"
 languageCode = "en"
-title = "United States of America"
+title = "Liberia"
 theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
