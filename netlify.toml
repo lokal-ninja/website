@@ -8,6 +8,6 @@
   HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "/burkina-faso/*"
-  to = "https://ln-burkina-faso.netlify.app/:splat"
+  from = "/niger/*"
+  to = "https://ln-niger.netlify.app/:splat"
   status = 200
