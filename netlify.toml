@@ -8,6 +8,136 @@
   HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "/burkina-faso/*"
-  to = "https://ln-burkina-faso.netlify.app/:splat"
+  from = "/alsace/*"
+  to = "https://ln-alsace.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/aquitaine/*"
+  to = "https://ln-aquitaine.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/auvergne/*"
+  to = "https://ln-auvergne.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/basse-normandie/*"
+  to = "https://ln-basse-normandie.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/bourgogne/*"
+  to = "https://ln-bourgogne.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/bretagne/*"
+  to = "https://ln-bretagne.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/centre/*"
+  to = "https://ln-centre.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/champagne-ardenne/*"
+  to = "https://ln-champagne-ardenne.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/corse/*"
+  to = "https://ln-corse.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/franche-comte/*"
+  to = "https://ln-franche-comte.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/guadeloupe/*"
+  to = "https://ln-guadeloupe.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/guyane/*"
+  to = "https://ln-guyane.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/haute-normandie/*"
+  to = "https://ln-haute-normandie.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/ile-de-france/*"
+  to = "https://ln-ile-de-france.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/languedoc-roussillon/*"
+  to = "https://ln-languedoc-roussillon.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/limousin/*"
+  to = "https://ln-limousin.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/lorraine/*"
+  to = "https://ln-lorraine.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/martinique/*"
+  to = "https://ln-martinique.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/mayotte/*"
+  to = "https://ln-mayotte.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/midi-pyrenees/*"
+  to = "https://ln-midi-pyrenees.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/nord-pas-de-calais/*"
+  to = "https://ln-nord-pas-de-calais.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/pays-de-la-loire/*"
+  to = "https://ln-pays-de-la-loire.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/picardie/*"
+  to = "https://ln-picardie.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/poitou-charentes/*"
+  to = "https://ln-poitou-charentes.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/provence-alpes-cote-d-azur/*"
+  to = "https://ln-provence-alpes-cote-d-azur.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/reunion/*"
+  to = "https://ln-reunion.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/rhone-alpes/*"
+  to = "https://ln-rhone-alpes.netlify.app/:splat"
   status = 200
