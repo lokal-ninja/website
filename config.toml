@@ -1,6 +1,6 @@
-baseURL = "https://bf.shoogle.net"
+baseURL = "https://ci.shoogle.net"
 languageCode = "fr"
-title = "Burkina Faso"
+title = "Côte d'Ivoire"
 theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
