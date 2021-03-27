@@ -1,28 +1,28 @@
 {{ define "title" -}}
-{{ .Site.Params.site }} - Lokale Geschäfte mühelos finden
+{{ .Site.Params.site }} - Trouvez les magasins locaux sans effort
 {{- end }}
 {{ define "heading" -}}
-{{ .Site.Params.site }} - Lokale Geschäfte mühelos finden
+{{ .Site.Params.site }} - Trouvez les magasins locaux sans effort
 {{- end }}
 {{ define "main" }}
 {{ .Content }}
 <section>
   <blockquote>
-    <img alt="Anführungszeichen" src="/img/icon-quote.svg" width="80" height="80">
+    <img alt="Les guillemets" src="/img/icon-quote.svg" width="80" height="80">
     <br>
-    "Quasi die Gelben Seiten in modern"
+    "Quasi les pages jaunes en version moderne"
     <footer>
       <i>- Profpatsch, Hacker</i>
     </footer>
   </blockquote>
 </section>
 <ul class="columns">
-  <li><a href="/benin/">Bénin</a></li>
+  <li><a href="/burkina-faso/">Burkina Faso</a></li>
 </ul>
 {{ partialCached "chat.html" . -}}
-<nav aria-label="Wechsle zur Landeseite">
+<nav aria-label="Passez à la page de destination">
   <ul>
-    <li><a href="https://shoogle.net/overview/">↶ zurück zur Landeseite</a></li>
+    <li><a href="https://shoogle.net/overview/">↶ retour à la page d'accueil</a></li>
   </ul>
 </nav>
 {{ end }}
