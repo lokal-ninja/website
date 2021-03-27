@@ -2,6 +2,6 @@
 title: Shoogle
 ---
 
-Shoogle ist ein Gemeinschaftsprojekt, um aktuelle Informationen zu den Einkaufsmöglichkeiten in Deutschland allen zur Verfügung zu stellen.
+Shoogle est un projet collaboratif visant à mettre à la disposition de tous des informations actualisées sur le shopping au Bénin.
 
-Helft mit und verbessert die Datengrundlage indem ihr fehlende Orte in die [OpenStreetMap](https://www.openstreetmap.org/) eintragt.
+Aidez et améliorez la base de données en ajoutant les lieux manquants à la [OpenStreetMap] (https://www.openstreetmap.org/).
