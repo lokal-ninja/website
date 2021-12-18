@@ -16,10 +16,16 @@
     </footer>
   </blockquote>
 </section>
-<ul class="columns">
-  <li><a href="/austria/">Österreich</a></li>
-</ul>
-{{ partialCached "chat.html" . -}}
+<div class="row">
+  <div class="col-lg-7">
+    <ul class="columns m-0">
+      <li><a href="/austria/">Österreich</a></li>
+    </ul>
+  </div>
+  <div class="col-lg-5">
+    {{ partialCached "chat.html" . -}}
+  </div>
+</div>
 <nav aria-label="Wechsle zur Landeseite">
   <ul>
     <li><a href="https://shoogle.net/overview/">↶ zurück zur Landeseite</a></li>
