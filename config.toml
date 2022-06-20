@@ -1,4 +1,4 @@
-baseURL = "https://ch.shoogle.net"
+baseURL = "https://ch.shoogle.net/"
 languageCode = "de"
 title = "Schweiz"
 theme = "ln-base"
