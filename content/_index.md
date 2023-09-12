@@ -2,6 +2,6 @@
 title: Shoogle
 ---
 
-Shoogle ist ein Gemeinschaftsprojekt, um aktuelle Informationen zu den Einkaufsmöglichkeiten in Deutschland allen zur Verfügung zu stellen.
+Shoogle es un proyecto colaborativo para poner al alcance de todos información actualizada sobre las compras en Argentina.
 
-Helft mit und verbessert die Datengrundlage indem ihr fehlende Orte in die [OpenStreetMap](https://www.openstreetmap.org/) eintragt.
+Ayude y mejore la base de datos añadiendo los lugares que faltan al [OpenStreetMap](https://www.openstreetmap.org/).

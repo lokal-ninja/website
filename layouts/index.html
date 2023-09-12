@@ -2,15 +2,15 @@
 {{ .Site.Params.site }}
 {{- end }}
 {{ define "heading" -}}
-Null Tracking - Pures Sucherlebnis
+Cero seguimiento: pura experiencia de búsqueda
 {{- end }}
 {{ define "main" }}
 {{ .Content }}
 <section>
   <blockquote>
-    <img alt="Anführungszeichen" src="/img/icon-quote.svg" width="80" height="80">
+    <img alt="Comillas" src="/img/icon-quote.svg" width="80" height="80">
     <br>
-    "Quasi die Gelben Seiten in modern"
+    "Quasi las Páginas Amarillas en moderno"
     <footer>
       <i>- Profpatsch, Hacker</i>
     </footer>
@@ -19,30 +19,16 @@ Null Tracking - Pures Sucherlebnis
 <div class="row">
   <div class="col-lg-7">
     <ul class="columns m-0">
-      <li><a href="/baden-wuerttemberg/">Baden-Württemberg</a></li>
-      <li><a href="/bayern/">Bayern</a></li>
-      <li><a href="/brandenburg/">Brandenburg</a></li>
-      <li><a href="/bremen/">Bremen</a></li>
-      <li><a href="/hamburg/">Hamburg</a></li>
-      <li><a href="/hessen/">Hessen</a></li>
-      <li><a href="/mecklenburg-vorpommern/">Mecklenburg-Vorpommern</a></li>
-      <li><a href="/niedersachsen/">Niedersachsen</a></li>
-      <li><a href="/nordrhein-westfalen/">Nordrhein-Westfalen</a></li>
-      <li><a href="/rheinland-pfalz/">Rheinland-Pfalz</a></li>
-      <li><a href="/saarland/">Saarland</a></li>
-      <li><a href="/sachsen/">Sachsen</a></li>
-      <li><a href="/sachsen-anhalt/">Sachsen-Anhalt</a></li>
-      <li><a href="/schleswig-holstein/">Schleswig-Holstein</a></li>
-      <li><a href="/thueringen/">Thüringen</a></li>
+      <li><a href="/argentina/">Argentina</a></li>
     </ul>
   </div>
   <div class="col-lg-5">
     {{ partialCached "chat.html" . -}}
   </div>
 </div>
-<nav aria-label="Wechsle zur Landeseite">
+<nav aria-label="Pasar a la página del país">
   <ul>
-    <li><a href="https://shoogle.net/overview/">↶ zurück zur Landeseite</a></li>
+    <li><a href="https://shoogle.net/overview/">↶ volver a la página del país</a></li>
   </ul>
 </nav>
 {{ end }}
