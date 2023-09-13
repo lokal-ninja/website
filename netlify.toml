@@ -8,6 +8,86 @@
   HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "/argentina/*"
-  to = "https://ln-argentina.netlify.app/:splat"
+  from = "/andalucia/*"
+  to = "https://ln-andalucia.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/aragon/*"
+  to = "https://ln-aragon.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/asturias/*"
+  to = "https://ln-asturias.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/castilla-la-mancha/*"
+  to = "https://ln-castilla-la-mancha.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/castilla-y-leon/*"
+  to = "https://ln-castilla-y-leon.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/cataluna/*"
+  to = "https://ln-cataluna.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/ceuta/*"
+  to = "https://ln-ceuta.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/extremadura/*"
+  to = "https://ln-extremadura.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/galicia/*"
+  to = "https://ln-galicia.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/islas-baleares/*"
+  to = "https://ln-islas-baleares.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/la-rioja/*"
+  to = "https://ln-la-rioja.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/madrid/*"
+  to = "https://ln-madrid.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/melilla/*"
+  to = "https://ln-melilla.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/murcia/*"
+  to = "https://ln-murcia.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/navarra/*"
+  to = "https://ln-navarra.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/pais-vasco/*"
+  to = "https://ln-pais-vasco.netlify.app/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/valencia/*"
+  to = "https://ln-valencia.netlify.app/:splat"
   status = 200
