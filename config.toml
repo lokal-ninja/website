@@ -1,6 +1,6 @@
-baseURL = "https://ar.shoogle.net/"
+baseURL = "https://pa.shoogle.net/"
 languageCode = "es"
-title = "Argentina"
+title = "Panamá"
 theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
